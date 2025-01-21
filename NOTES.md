@@ -36,3 +36,17 @@ SMART CONTRACT AUDITING NOTES
 2. 4nalyzer
 3. Mythril
 4. Aderyn
+
+
+Finding Layout
+=============================
+
+### [S-#] TITLE (Root Cause + Impact)
+
+**Description:** 
+
+**Impact:** 
+
+**Proof of Concept:**
+
+**Recommended Mitigation:** 
